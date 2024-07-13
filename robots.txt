@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /portal/
-Disallow: /_*
-Disallow: /calendar*
-Disallow: /events*
-Disallow: /js/*
-Disallow: /style/*
