@@ -1,50 +1,51 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+            <!DOCTYPE html>
+            <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" >
                 <head>
                     <meta http-equiv="content-type" content="charset=utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1">
 
                     
-            <title>Gallery | zakariaar.website3.me</title>
-            <meta name="title" content="Gallery | zakariaar.website3.me">
+            <title>Gallery&#x20;&#x7c;&#x20;zakariaar.website3.me</title>
+            <meta name="title" content="Gallery&#x20;&#x7c;&#x20;zakariaar.website3.me">
             
 
             
             <meta name="twitter:card" content="summary_large_image">
-            <meta name="twitter:title" content="Gallery | zakariaar.website3.me">
+            <meta name="twitter:title" content="Gallery&#x20;&#x7c;&#x20;zakariaar.website3.me">
             <meta name="twitter:description" content="">
-            <meta name="twitter:image:src" content="http://zakariaar.website3.me/img/screenshot/2762632.jpg">
-            <meta name="twitter:image:alt" content="Gallery | zakariaar.website3.me">
+            <meta name="twitter:image:src" content="http:&#x2f;&#x2f;zakariaar.website3.me&#x2f;img&#x2f;screenshot&#x2f;2762632.jpg">
+            <meta name="twitter:image:alt" content="Gallery&#x20;&#x7c;&#x20;zakariaar.website3.me">
 
             
-            <meta property="og:title" content="Gallery | zakariaar.website3.me">
-            <meta property="og:type" content="website">
-            <meta property="og:url" content="http://zakariaar.website3.me/gallery">
-            <meta property="og:image" content="http://zakariaar.website3.me/img/screenshot/2762632.jpg">
-            <meta property="og:description" content="">
-            <meta property="og:site_name" content="zakariaar.website3.me">
+            <meta property="og:title" content="Gallery&#x20;&#x7c;&#x20;zakariaar.website3.me" />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="http&#x3a;&#x2f;&#x2f;zakariaar.website3.me&#x2f;gallery" />
+            <meta property="og:image" content="http:&#x2f;&#x2f;zakariaar.website3.me&#x2f;img&#x2f;screenshot&#x2f;2762632.jpg" />
+            <meta property="og:description" content="" />
+            <meta property="og:site_name" content="zakariaar.website3.me" />
 
             
-                <link rel="shortcut icon" href="favicons/img-favicon.ico">
-                <link rel="apple-touch-icon" href="favicons/img-favicon.ico">
+                <link rel="shortcut icon" href="img/favicon.ico">
+                <link rel="apple-touch-icon" href="img/favicon.ico">
             
 
             
-            <link rel="canonical" href="http://zakariaar.website3.me/gallery">
+            <link rel="canonical" href="gallery" />
 
             
 
-            <link rel="alternate" href="http://zakariaar.website3.me/gallery" hreflang="x-default">
+            <link rel="alternate" href="gallery" hreflang="x-default">
 
             
-            <meta content="Website.com Website Builder" name="generator">
+            <meta content="Website.com Website Builder" name="generator" />
             <meta name="theme-color" content="#FFF">
-            <meta name="format-detection" content="telephone=no">
+            <meta name="format-detection" content="telephone=no"/>
         
-                        <link rel="stylesheet" href="css/dist-site_style.bundle.css">
+                        <link rel="stylesheet" href="js/dist/site_style.bundle.css" />
                     
                     
-                    <script id="bb-site-settings" type="application/json">{"revision":20240711115146,"cfid":71151331,"disableLinkAnalytics":true,"disablePrefetch":true,"siteId":2762632,"cftoken":"f9232fa8d4532f4a-CDCF0C40-E708-A580-102281998413F934"}</script>
+                    <script id="bb-site-settings" type="application/json">{"revision":20240711115146,"cfid":70985392,"disableLinkAnalytics":true,"disablePrefetch":true,"siteId":2762632,"cftoken":"3229fc1b182bb559-9F187104-C56E-4A98-1E8F517684C43AE9"}</script>
                     <script>var fsData = {"sfs":"","revision":0,"domain":"zakariaar","appName":"site-gks7h8ta","maxReso":768,"isMigrating":false,"fs":".wsecdn1.websitecdn.com"};</script>
 
                     
@@ -62,7 +63,7 @@
                             
                         </script>
                     
-            <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&amp;display=swap" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap" rel="stylesheet" />
             
 
             
@@ -345,20 +346,20 @@
                 }
             </style>
         
-                            <link rel="stylesheet" href="css/dist-published_site_section_style_header_shared.bundle.css">
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_header_shared.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="css/dist-published_site_section_style_controls_languageswitch.bundle.css">
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_controls_languageswitch.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="css/dist-published_site_section_style_footer_4.bundle.css">
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_footer_4.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="css/dist-published_site_section_style_gallery_shared.bundle.css">
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_gallery_shared.bundle.css?20240711115146"  />
                         
                 </head>
               
                 <body class="updating-nav">
                     
 
-                    <a class="bb-smc" href="#bb-mc">Skip to main content</a>
+                    <a class="bb-smc" href="gallery#bb-mc">Skip to main content</a>
 
                     
 
@@ -399,7 +400,7 @@
                                 <div class="mx-2" style="max-width: 100%;">
                                     
 
-            <a href="zakariaar.website3.html" class="mx-n2 d-flex align-items-center flex-wrap flex-sm-nowrap" style="text-decoration: none;" aria-label="Logo">
+            <a href="index.html" class="mx-n2 d-flex align-items-center flex-wrap flex-sm-nowrap" style="text-decoration: none;" aria-label="Logo">
                 
                     <div class="px-2 bb-site-logo" style="max-width: 100%;">
                         <div style="width: 50px; max-width: 100%;"> 
@@ -407,9 +408,20 @@
                     
                     
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                 </div>
@@ -419,7 +431,8 @@
                     <div class="px-2 bb-site-title bb-font-h4">
                         
 
-            <p class=" bb-font-p">Zakaria Ar</p>
+            <p class=" bb-font-p" 
+            >Zakaria Ar</p>
         
                     </div>
                 
@@ -430,12 +443,12 @@
                                     <div class="d-flex align-items-center mx-2 justify-content-start" style="flex: 1; width: 0; color: ; fill: ;">
                                         
             <nav class="bb-desktop-nav" role="navigation" style="opacity: 0;">
-                <ul class="d-flex mx-n2 flex-row" role="menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                <ul class="d-flex mx-n2 flex-row" role="menu" itemscope itemtype="http://schema.org/SiteNavigationElement" >
                     
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="zakariaar.website3.html"><span>Home</span></a>
+                                <a href="index.html"><span>Home</span></a>
                             
                         </li>
 
@@ -443,7 +456,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="services.html"><span>Services</span></a>
+                                <a href="services"><span>Services</span></a>
                             
                         </li>
 
@@ -451,7 +464,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="#" class="active" data-anchor="top" aria-current="page"><span>Gallery</span></a>
+                                <a href="gallery" class="active" data-anchor="top" aria-current="page"><span>Gallery</span></a>
                             
                         </li>
 
@@ -459,7 +472,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="contact.html"><span>Contact</span></a>
+                                <a href="contact"><span>Contact</span></a>
                             
                         </li>
 
@@ -475,18 +488,18 @@
                                 
                                     <div class="bb-header-btn">
                                         
-                <div class="social-links">
+                <div class="social-links" >
                     
-                            <a href="https://facebook.com/" target="_blank" aria-label="https://facebook.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://facebook.com/"><use xlink:href="#facebook-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;"><use xlink:href="#facebook-icon"></use></svg>
                             </a>
                         
-                            <a href="https://twitter.com/" target="_blank" aria-label="https://twitter.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://twitter.com/"><use xlink:href="#twitter-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;"><use xlink:href="#twitter-icon"></use></svg>
                             </a>
                         
-                            <a href="https://www.instagram.com/" target="_blank" aria-label="https://www.instagram.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://www.instagram.com/"><use xlink:href="#instagram-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;"><use xlink:href="#instagram-icon"></use></svg>
                             </a>
                         
                 </div>
@@ -495,7 +508,7 @@
                                 
             <div class="bb-mobile-nav">
                 <button type="button" class="nav-toggle bb-box" aria-label="Mobile Menu">
-                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"></path><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
                     
                 </button>
             </div>
@@ -507,7 +520,7 @@
                         <div class="d-flex align-items-center">
                             
                             <div class="nav-close p-3">
-                                <svg viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="16px"><path d="m63 0l-63 63 193 193-193 193 63 63 193-193 193 193 63-63-193-193 193-193-63-63-193 193z"></path></svg>
+                                <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="16px"><path d="m63 0l-63 63 193 193-193 193 63 63 193-193 193 193 63-63-193-193 193-193-63-63-193 193z"></path></svg>
                             </div>
                         </div>
                     </div>
@@ -517,7 +530,7 @@
                             <ul>
                                 
             <li>
-                <a href="zakariaar.website3.html">
+                <a href="index.html">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Home</span>
                         
@@ -527,7 +540,7 @@
             </li>
         
             <li>
-                <a href="services.html">
+                <a href="services">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Services</span>
                         
@@ -537,7 +550,7 @@
             </li>
         
             <li>
-                <a href="#" class="active" data-anchor="top" aria-current="page">
+                <a href="gallery" class="active" data-anchor="top" aria-current="page">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Gallery</span>
                         
@@ -547,7 +560,7 @@
             </li>
         
             <li>
-                <a href="contact.html">
+                <a href="contact">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Contact</span>
                         
@@ -562,18 +575,18 @@
                         
                         <div class="p-4" style="fill: ;">
                             
-                <div class="social-links">
+                <div class="social-links" >
                     
-                            <a href="https://facebook.com/" target="_blank" aria-label="https://facebook.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://facebook.com/"><use xlink:href="#facebook-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;"><use xlink:href="#facebook-icon"></use></svg>
                             </a>
                         
-                            <a href="https://twitter.com/" target="_blank" aria-label="https://twitter.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://twitter.com/"><use xlink:href="#twitter-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;"><use xlink:href="#twitter-icon"></use></svg>
                             </a>
                         
-                            <a href="https://www.instagram.com/" target="_blank" aria-label="https://www.instagram.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://www.instagram.com/"><use xlink:href="#instagram-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;"><use xlink:href="#instagram-icon"></use></svg>
                             </a>
                         
                 </div>
@@ -683,10 +696,12 @@
                             <div class="col-12 mb-4">
                                 
 
-            <h3 class=" bb-font-h3">A collection of our success working with clients from all over the world achieve amazing, proven, and growing results for their business.</h3>
+            <h3 class=" bb-font-h3" 
+            >A collection of our success working with clients from all over the world achieve amazing, proven, and growing results for their business.</h3>
         
 
-            <div><p>This is a paragraph. You can write your own content here, and fill in the blanks. Tell the world about your business, and make this text yours.</p></div>
+            <div 
+            ><p>This is a paragraph. You can write your own content here, and fill in the blanks. Tell the world about your business, and make this text yours.</p></div>
         
                             </div>
                         </div>
@@ -700,12 +715,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6846" data-h="4569" data-aspectratio="1.49835850295" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6846"
+                                                data-h="4569"
+                                            
+                                            data-aspectratio="1.49835850295"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFkoS1JcSSdMPVNRQEAqMU4uTU1OVCJNNiVRSTgsXFpbKTYuQlhcQkleMUAgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -715,7 +744,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Alec Cutter</div>
+            <div class="bb-font-h6" 
+            >Alec Cutter</div>
         
             </figcaption>
         
@@ -728,12 +758,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6016" data-h="4016" data-aspectratio="1.49800796813" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6016"
+                                                data-h="4016"
+                                            
+                                            data-aspectratio="1.49800796813"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -743,7 +787,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Jean Kleisz</div>
+            <div class="bb-font-h6" 
+            >Jean Kleisz</div>
         
             </figcaption>
         
@@ -756,12 +801,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6000" data-h="3835" data-aspectratio="1.56453715776" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6000"
+                                                data-h="3835"
+                                            
+                                            data-aspectratio="1.56453715776"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFhLMzwpO1g5PzBFSis9MUs3L1lWL0AmLUlCWVhGWFdEQyg8RUBbMkZPUTAgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -771,7 +830,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Annie Spratt</div>
+            <div class="bb-font-h6" 
+            >Annie Spratt</div>
         
             </figcaption>
         
@@ -784,12 +844,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%252FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6000" data-h="2802" data-aspectratio="2.14132762313" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6000"
+                                                data-h="2802"
+                                            
+                                            data-aspectratio="2.14132762313"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEVKNT4iWFo3TklOWUcxRF0%2FP0pEVSA0LEUqOy9SUz48Si8sPE85NDcuVyggCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -799,7 +873,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Tim Swaan</div>
+            <div class="bb-font-h6" 
+            >Tim Swaan</div>
         
             </figcaption>
         
@@ -812,12 +887,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%252FNDdWWDhOMlZfPSMySCYsQEQgCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6048" data-h="4032" data-aspectratio="1.5" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6048"
+                                                data-h="4032"
+                                            
+                                            data-aspectratio="1.5"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QEQoJFJWMyckMlxaQFUlIyRaJVsnVEgsMVc%2FNDdWWDhOMlZfPSMySCYsQEQgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -827,7 +916,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Steve Richey</div>
+            <div class="bb-font-h6" 
+            >Steve Richey</div>
         
             </figcaption>
         
@@ -840,12 +930,26 @@
                 <div class="bb-media-container">
                     
                     
-                            <a target="_blank" aria-label="View Image" rel="noopener noreferrer" href="imageProxy.html" class="bb-lightbox" noprefetch="true">
+                            <a target="_blank" aria-label="View&#x20;Image" rel="noopener noreferrer" href="remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg==&amp;type=full" class="bb-lightbox" noprefetch="true">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-w="6016" data-h="4016" data-aspectratio="1.49800796813" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                                data-w="6016"
+                                                data-h="4016"
+                                            
+                                            data-aspectratio="1.49800796813"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QF8iWTYrJU40IFhDKExHTzc6SV8pTEE8OUoqWzIvISIlITY7KThaJVJON0wgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -855,7 +959,8 @@
             <figcaption class="bb-media-caption">
                 
 
-            <div class="bb-font-h6">Anthony Delanoix</div>
+            <div class="bb-font-h6" 
+            >Anthony Delanoix</div>
         
             </figcaption>
         
@@ -876,7 +981,8 @@
                         <div class="col-sm-4 py-1">
                             
 
-            <h3 class=" bb-font-h3">Clients</h3>
+            <h3 class=" bb-font-h3" 
+            >Clients</h3>
         
                         </div>
                         <div class="col-sm-8">
@@ -888,12 +994,23 @@
                 <div class="bb-media-container">
                     
                     
-                            <a href="zakariaar.website3.html">
+                            <a href="index.html">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1.17921146953" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1.17921146953"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDgtKExbPEYxL1FDOzFCRCFKN0Y4QlggCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -909,12 +1026,23 @@
                 <div class="bb-media-container">
                     
                     
-                            <a href="zakariaar.website3.html">
+                            <a href="index.html">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1.08602150538" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1.08602150538"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDdUPU8uPj1ePis1ISVbLTJAVkI8O0AgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -930,12 +1058,23 @@
                 <div class="bb-media-container">
                     
                     
-                            <a href="zakariaar.website3.html">
+                            <a href="index.html">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1.1875" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1.1875"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDI0WEc5JlMlKS9SLiExKFw1QS9BKyQgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -951,12 +1090,23 @@
                 <div class="bb-media-container">
                     
                     
-                            <a href="zakariaar.website3.html">
+                            <a href="index.html">
                         
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1.15808823529" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1.15808823529"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCNdKjhPIVI5Vyw%2BXjUyICQnJF9NWDQ6RjRcVSUpNFJPNylTR0VEWDZWMiAgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                             </a>
@@ -985,7 +1135,7 @@
                             <div class="col-md-6">
                                 <div> 
 
-        <a href="zakariaar.website3.html" class="mx-n2 d-flex align-items-center flex-wrap" style="text-decoration: none;">
+        <a href="index.html" class="mx-n2 d-flex align-items-center flex-wrap" style="text-decoration: none;">
             
             
                 <div class="px-2 bb-site-logo" style="max-width: 100%;">
@@ -994,9 +1144,20 @@
                     
                     
                                 <figure class="bb-aspect-ratio  " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img alt="" data-aspectratio="1" data-sizes="auto" data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&amp;s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&amp;w=768 1920w" class="lazyload " style="
+                                    <img
+                                        alt=""
                                         
-                                        " draggable="false" itemprop="contentUrl" src="images/https:-zakariaar.website3.me">
+                                            data-aspectratio="1"
+                                        
+                                        data-sizes="auto"
+                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFpGNUFbKFI1OzdfSEFMOyknUFpFODk1KFJXI18wOTMvLEs%2BTyYxWz0uM1QgCg%3D%3D&w=768 1920w"
+                                        class="lazyload "
+                                        style="
+                                        
+                                        "
+                                        draggable="false"
+                                        itemprop="contentUrl"
+                                        style="">
                                 </figure>
                             
                 </div>
@@ -1006,7 +1167,8 @@
                 <div class="px-2 bb-site-title bb-font-h4">
                     
 
-            <p class=" bb-font-p">Zakaria Ar</p>
+            <p class=" bb-font-p" 
+            >Zakaria Ar</p>
         
                 </div>
             
@@ -1023,33 +1185,36 @@
             
                 <div class="d-flex py-1 ">
                     
-                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#mapmarker-icon"></use></svg></span>
+                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#mapmarker-icon"></svg></span>
                     
                         <div> 
 
-            <div><p>888 Griffiths Way, Mainland ML 12345</p></div>
+            <div 
+            ><p>888 Griffiths Way, Mainland ML 12345</p></div>
         </div>
                     
                 </div>
             
                 <div class="d-flex py-1 ">
                     
-                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#telephone-icon"></use></svg></span>
+                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#telephone-icon"></svg></span>
                     
-                        <a aria-label="Phone 987-654-3210" href="tel:987-654-3210"> 
+                        <a aria-label="Phone&#x20;987-654-3210" href="tel&#x3a;987-654-3210"> 
 
-            <p class=" bb-font-p">987-654-3210</p>
+            <p class=" bb-font-p" 
+            >987-654-3210</p>
         </a>
                     
                 </div>
             
                 <div class="d-flex py-1 ">
                     
-                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#mail-icon"></use></svg></span>
+                        <span class="mr-2"><svg style="width: 16px; height: 21px;"><use xlink:href="#mail-icon"></svg></span>
                     
-                        <a aria-label="Email zikoar2018@gmail.com" href="mailto:zikoar2018@gmail.com"> 
+                        <a aria-label="Email&#x20;zikoar2018&#x40;gmail.com" href="mailto&#x3a;zikoar2018&#x40;gmail.com"> 
 
-            <p class=" bb-font-p">zikoar2018@gmail.com</p>
+            <p class=" bb-font-p" 
+            >zikoar2018&#x40;gmail.com</p>
         </a>
                     
                 </div>
@@ -1074,18 +1239,18 @@
                                     <div class="col-12 col-sm-6 d-flex justify-content-sm-end">
                                         
             <div style="color: ; fill: ;"> 
-                <div class="social-links">
+                <div class="social-links" >
                     
-                            <a href="https://facebook.com/" target="_blank" aria-label="https://facebook.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://facebook.com/"><use xlink:href="#facebook-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;facebook.com&#x2f;"><use xlink:href="#facebook-icon"></use></svg>
                             </a>
                         
-                            <a href="https://twitter.com/" target="_blank" aria-label="https://twitter.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://twitter.com/"><use xlink:href="#twitter-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;twitter.com&#x2f;"><use xlink:href="#twitter-icon"></use></svg>
                             </a>
                         
-                            <a href="https://www.instagram.com/" target="_blank" aria-label="https://www.instagram.com/" rel="nofollow noopener noreferrer">
-                                <svg alt="https://www.instagram.com/"><use xlink:href="#instagram-icon"></use></svg>
+                            <a href="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" target="_blank" aria-label="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;" rel="nofollow noopener noreferrer">
+                                <svg alt="https&#x3a;&#x2f;&#x2f;www.instagram.com&#x2f;"><use xlink:href="#instagram-icon"></use></svg>
                             </a>
                         
                 </div>
@@ -1107,17 +1272,17 @@
 			            <div class="col-md-12 text-center">
 							
 			            	<div class="mb-3">
-			            		<a target="_blank" rel="nofollow noopener noreferrer" href="https://www.website.com" noprefetch="true" aria-label="Website.com Logo">
-			            			<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 27.6 26.075" width="24px" style="fill: currentColor;"><g>
-										<path d="M0 .586L4.83 0l3.549 10.207L12.716.39h2.169l4.337 9.622L22.771-.001l4.83.586-6.752 18.7H18.68L13.8 9.134 8.921 19.282H6.752z"></path>
-										<path d="M25.761 26.075h-24.1v-5.1h24.1z" fill="#f26522"></path>
+			            		<a target="_blank" rel="nofollow noopener noreferrer" href="https&#x3a;&#x2f;&#x2f;www.website.com" noprefetch="true" aria-label="Website.com Logo">
+			            			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.6 26.075" width="24px" style="fill: currentColor;"><g>
+										<path d="M0 .586L4.83 0l3.549 10.207L12.716.39h2.169l4.337 9.622L22.771-.001l4.83.586-6.752 18.7H18.68L13.8 9.134 8.921 19.282H6.752z"/>
+										<path d="M25.761 26.075h-24.1v-5.1h24.1z" fill="#f26522"/>
 									</g></svg>
 			            		</a>
 			            	</div>
 							
 			            	<div>
 							
-							<a href="https://www.website.com/" target="_blank">Free Website</a> Created &amp; Hosted with Website.com <a href="https://www.website.com/" target="_blank">Website Builder</a> 
+							<a href='https://www.website.com/' target='_blank'>Free Website</a> Created & Hosted with Website.com <a href='https://www.website.com/' target='_blank'>Website Builder</a> 
 			            	</div>
 			            </div>
 			        </div>
@@ -1127,18 +1292,18 @@
                     
                 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display: none;" data-usage="social-icons-svg">
                     
-                                <symbol id="facebook-icon" viewbox="0 0 320 512"><path fill="inherit" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></symbol>
+                                <symbol id="facebook-icon" viewBox="0 0 320 512"><path fill="inherit" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></symbol>
                             
                                 
-                                <symbol id="twitter-icon" viewbox="0 0 24 24"><g><path fill="inherit" d="M13.9027 10.4686L21.3482 2H19.5838L13.119 9.3532L7.95547 2H2L9.8082 13.1193L2 22H3.76443L10.5915 14.2348L16.0445 22H22L13.9023 10.4686H13.9027ZM11.4861 13.2173L10.695 12.1101L4.40018 3.29968H7.11025L12.1902 10.4099L12.9813 11.5172L19.5847 20.7594H16.8746L11.4861 13.2177V13.2173Z"></path></g></symbol>
+                                <symbol id="twitter-icon" viewBox="0 0 24 24"><g><path fill="inherit" d="M13.9027 10.4686L21.3482 2H19.5838L13.119 9.3532L7.95547 2H2L9.8082 13.1193L2 22H3.76443L10.5915 14.2348L16.0445 22H22L13.9023 10.4686H13.9027ZM11.4861 13.2173L10.695 12.1101L4.40018 3.29968H7.11025L12.1902 10.4099L12.9813 11.5172L19.5847 20.7594H16.8746L11.4861 13.2177V13.2173Z" /></g></symbol>
                             
-                                <symbol id="instagram-icon" viewbox="0 0 448 512"><path fill="inherit" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></symbol>
+                                <symbol id="instagram-icon" viewBox="0 0 448 512"><path fill="inherit" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></symbol>
                             
-                                <symbol id="mapmarker-icon" viewbox="0 0 384 512"><path fill="inherit" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></symbol>
+                                <symbol id="mapmarker-icon" viewBox="0 0 384 512"><path fill="inherit" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></symbol>
                             
-                                <symbol id="telephone-icon" viewbox="0 0 512 512"><path fill="inherit" d="M497.39 361.8l-112-48a24 24 0 00-28 6.9l-49.6 60.6A370.66 370.66 0 01130.6 204.11l60.6-49.6a23.94 23.94 0 006.9-28l-48-112A24.16 24.16 0 00122.6.61l-104 24A24 24 0 000 48c0 256.5 207.9 464 464 464a24 24 0 0023.4-18.6l24-104a24.29 24.29 0 00-14.01-27.6z"></path></symbol>
+                                <symbol id="telephone-icon" viewBox="0 0 512 512"><path fill="inherit" d="M497.39 361.8l-112-48a24 24 0 00-28 6.9l-49.6 60.6A370.66 370.66 0 01130.6 204.11l60.6-49.6a23.94 23.94 0 006.9-28l-48-112A24.16 24.16 0 00122.6.61l-104 24A24 24 0 000 48c0 256.5 207.9 464 464 464a24 24 0 0023.4-18.6l24-104a24.29 24.29 0 00-14.01-27.6z"/></symbol>
                             
-                                <symbol id="mail-icon" viewbox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"></path><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"></path></symbol>
+                                <symbol id="mail-icon" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></symbol>
                             
                 </svg>
             
@@ -1158,10 +1323,10 @@
 					});					
 					</script>
 
-                    <script src="js/dist-published_site.bundle.js"></script>
+                    <script src="js/dist/published_site.bundle.js?20240711115146" ></script>
                     
                     
-                    <script src="https://www.googletagmanager.com/gtag/js?id=G-6D0WQE4DLB"></script>
+                    <script src="https://www.googletagmanager.com/gtag/js?id=G-6D0WQE4DLB" ></script>
                 
                     
                         <script>
@@ -1193,19 +1358,19 @@
                             }())
                         </script>
                     
-                <link rel="stylesheet" href="css/dist-site_free_plan.bundle.css">
+                <link rel="stylesheet" href="js/dist/site_free_plan.bundle.css?20240711115146" />
                 <link rel="stylesheet" href="https://use.typekit.net/pza8bhe.css">
                 
                 <style>
-                .bb-bottom-banner {border-top: 3px solid #f37735; border-bottom: 3px solid #f37735;}
-                .bb-bottom-banner .text2 {color: #f37735; border: 1px solid #f37735; fill: #f37735;}
-                .bb-bottom-banner:hover .text2 {background-color: #f37735;}
-                .bb-side-banner .link1 {border-color: #f37735;}
+                .bb-bottom-banner {border-top: 3px solid #00b159; border-bottom: 3px solid #00b159;}
+                .bb-bottom-banner .text2 {color: #00b159; border: 1px solid #00b159; fill: #00b159;}
+                .bb-bottom-banner:hover .text2 {background-color: #00b159;}
+                .bb-side-banner .link1 {border-color: #00b159;}
                 </style>
 
                 
-                    <div id="ws-side-banner-031833" class="bb-side-banner">
-                        <a class="link1 skip-tracking" href="https://www.website.com/" target="_blank" rel="noopener noreferrer" title="Create your website for free, powered by website.com">
+                    <div id="ws-side-banner-053323" class="bb-side-banner">
+                        <a class="link1 skip-tracking" href="https://www.website.com/" target="_blank" rel="noopener noreferrer"  title="Create your website for free, powered by website.com">
                             <span class="text text1">
                                 <p>Create Yours</p>
                                 <p class="logo">Website Builder</p>
@@ -1213,18 +1378,18 @@
                             <span class="separator"></span>
                             <span class="text text2"><p>Create Free Website Now</p></span>
                         </a>
-                        <a class="link2 skip-tracking" href="https://www.website.com/website-builder-templates/" target="_blank" rel="noopener noreferrer">Stunning Website Templates. Free Domain.</a>
+                        <a class="link2 skip-tracking" href="https://www.website.com/website-builder-templates/" target="_blank"  rel="noopener noreferrer" >Stunning Website Templates. Free Domain.</a>
                     </div>
                 
-                <a id="ws-bottom-banner-031833" class="bb-bottom-banner skip-tracking" href="https://www.website.com/website-builder/" target="_blank" rel="noopener noreferrer" title="Create your website for free, powered by website.com">
+                <a id="ws-bottom-banner-053323" class="bb-bottom-banner skip-tracking" href="https://www.website.com/website-builder/" target="_blank"  rel="noopener noreferrer"   title="Create your website for free, powered by website.com">
                     <span class="text text1">Create a free website with
                         <span class="domain">website<span class="dot">.</span>com</span>
                         website builder.
                     </span>
                     <span class="text text2">Start My Website
-                        <svg class="arrow1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
-                        <svg class="arrow2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
-                        <svg class="arrow3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
+                        <svg class="arrow1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
+                        <svg class="arrow2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
+                        <svg class="arrow3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512" width="6px"><path d="M187.8 264.5L41 412.5c-4.7 4.7-12.3 4.7-17 0L4.2 392.7c-4.7-4.7-4.7-12.3 0-17L122.7 256 4.2 136.3c-4.7-4.7-4.7-12.3 0-17L24 99.5c4.7-4.7 12.3-4.7 17 0l146.8 148c4.7 4.7 4.7 12.3 0 17z"></path></svg>
                     </span>
                 </a>
                 
@@ -1249,3 +1414,4 @@
                 
                 </body>
             </html>
+        

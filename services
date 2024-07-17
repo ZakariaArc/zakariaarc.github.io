@@ -6,46 +6,46 @@
                     <meta name="viewport" content="width=device-width, initial-scale=1">
 
                     
-            <title>zakariaar.website3.me</title>
-            <meta name="title" content="zakariaar.website3.me">
+            <title>Services&#x20;&#x7c;&#x20;zakariaar.website3.me</title>
+            <meta name="title" content="Services&#x20;&#x7c;&#x20;zakariaar.website3.me">
             
 
             
             <meta name="twitter:card" content="summary_large_image">
-            <meta name="twitter:title" content="zakariaar.website3.me">
+            <meta name="twitter:title" content="Services&#x20;&#x7c;&#x20;zakariaar.website3.me">
             <meta name="twitter:description" content="">
             <meta name="twitter:image:src" content="http:&#x2f;&#x2f;zakariaar.website3.me&#x2f;img&#x2f;screenshot&#x2f;2762632.jpg">
-            <meta name="twitter:image:alt" content="zakariaar.website3.me">
+            <meta name="twitter:image:alt" content="Services&#x20;&#x7c;&#x20;zakariaar.website3.me">
 
             
-            <meta property="og:title" content="zakariaar.website3.me" />
+            <meta property="og:title" content="Services&#x20;&#x7c;&#x20;zakariaar.website3.me" />
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="http&#x3a;&#x2f;&#x2f;zakariaar.website3.me" />
+            <meta property="og:url" content="http&#x3a;&#x2f;&#x2f;zakariaar.website3.me&#x2f;services" />
             <meta property="og:image" content="http:&#x2f;&#x2f;zakariaar.website3.me&#x2f;img&#x2f;screenshot&#x2f;2762632.jpg" />
             <meta property="og:description" content="" />
             <meta property="og:site_name" content="zakariaar.website3.me" />
 
             
-                <link rel="shortcut icon" href="/img/favicon.ico">
-                <link rel="apple-touch-icon" href="/img/favicon.ico">
+                <link rel="shortcut icon" href="img/favicon.ico">
+                <link rel="apple-touch-icon" href="img/favicon.ico">
             
 
             
-            <link rel="canonical" href="http&#x3a;&#x2f;&#x2f;zakariaar.website3.me" />
+            <link rel="canonical" href="services" />
 
             
 
-            <link rel="alternate" href="http&#x3a;&#x2f;&#x2f;zakariaar.website3.me" hreflang="x-default">
+            <link rel="alternate" href="services" hreflang="x-default">
 
             
             <meta content="Website.com Website Builder" name="generator" />
             <meta name="theme-color" content="#FFF">
             <meta name="format-detection" content="telephone=no"/>
         
-                        <link rel="stylesheet" href="/js/dist/site_style.bundle.css" />
+                        <link rel="stylesheet" href="js/dist/site_style.bundle.css" />
                     
                     
-                    <script id="bb-site-settings" type="application/json">{"revision":20240711115146,"cfid":71151319,"disableLinkAnalytics":true,"disablePrefetch":true,"siteId":2762632,"cftoken":"9bb945b321e01db8-CDCE4BD3-B754-CD75-38570C46D77C55B7"}</script>
+                    <script id="bb-site-settings" type="application/json">{"revision":20240711115146,"cfid":70985392,"disableLinkAnalytics":true,"disablePrefetch":true,"siteId":2762632,"cftoken":"3229fc1b182bb559-9F187104-C56E-4A98-1E8F517684C43AE9"}</script>
                     <script>var fsData = {"sfs":"","revision":0,"domain":"zakariaar","appName":"site-gks7h8ta","maxReso":768,"isMigrating":false,"fs":".wsecdn1.websitecdn.com"};</script>
 
                     
@@ -346,22 +346,22 @@
                 }
             </style>
         
-                            <link rel="stylesheet" href="/js/dist/published_site_section_style_header_shared.bundle.css?20240711115146"  />
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_header_shared.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="/js/dist/published_site_section_style_controls_languageswitch.bundle.css?20240711115146"  />
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_controls_languageswitch.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="/js/dist/published_site_section_style_footer_4.bundle.css?20240711115146"  />
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_footer_4.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="/js/dist/published_site_section_style_banner_shared.bundle.css?20240711115146"  />
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_banner_shared.bundle.css?20240711115146"  />
                         
-                            <link rel="stylesheet" href="/js/dist/published_site_section_style_banner_1.bundle.css?20240711115146"  />
+                            <link rel="stylesheet" href="js/dist/published_site_section_style_banner_3.bundle.css?20240711115146"  />
                         
                 </head>
               
                 <body class="updating-nav">
                     
 
-                    <a class="bb-smc" href="#bb-mc">Skip to main content</a>
+                    <a class="bb-smc" href="services#bb-mc">Skip to main content</a>
 
                     
 
@@ -402,7 +402,7 @@
                                 <div class="mx-2" style="max-width: 100%;">
                                     
 
-            <a href="/" class="mx-n2 d-flex align-items-center flex-wrap flex-sm-nowrap" style="text-decoration: none;" aria-label="Logo">
+            <a href="index.html" class="mx-n2 d-flex align-items-center flex-wrap flex-sm-nowrap" style="text-decoration: none;" aria-label="Logo">
                 
                     <div class="px-2 bb-site-logo" style="max-width: 100%;">
                         <div style="width: 50px; max-width: 100%;"> 
@@ -450,7 +450,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="/" class="active" aria-current="page"><span>Home</span></a>
+                                <a href="index.html"><span>Home</span></a>
                             
                         </li>
 
@@ -458,7 +458,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="&#x2f;services"><span>Services</span></a>
+                                <a href="services" class="active" data-anchor="top" aria-current="page"><span>Services</span></a>
                             
                         </li>
 
@@ -466,7 +466,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="&#x2f;gallery"><span>Gallery</span></a>
+                                <a href="gallery"><span>Gallery</span></a>
                             
                         </li>
 
@@ -474,7 +474,7 @@
                         
                         <li itemprop="name" role="menuitem" class="bb-popover  mx-3">
                             
-                                <a href="&#x2f;contact"><span>Contact</span></a>
+                                <a href="contact"><span>Contact</span></a>
                             
                         </li>
 
@@ -532,7 +532,7 @@
                             <ul>
                                 
             <li>
-                <a href="/" class="active" aria-current="page">
+                <a href="index.html">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Home</span>
                         
@@ -542,7 +542,7 @@
             </li>
         
             <li>
-                <a href="&#x2f;services">
+                <a href="services" class="active" data-anchor="top" aria-current="page">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Services</span>
                         
@@ -552,7 +552,7 @@
             </li>
         
             <li>
-                <a href="&#x2f;gallery">
+                <a href="gallery">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Gallery</span>
                         
@@ -562,7 +562,7 @@
             </li>
         
             <li>
-                <a href="&#x2f;contact">
+                <a href="contact">
                     <div class="d-flex justify-content-between py-4 pr-4 pl-4 bb-border-bottom">
                         <span class="link-label">Contact</span>
                         
@@ -690,180 +690,13 @@
                     <main id="bb-mc" role="main">
                         
 
-                            <section id="bb-section-9F12245F-A2AB-A496-B07A-989FF88E7D88" class="bb-section bb-section-layout-1 bb-color-3 bb-has-btn bb-has-overlay" style="background-color: ; --background-color: ;">
-                                
-                    <div>
-
-            
-               
-                <div 
-        class="bb-overlay-container"
-    >
-                    
-                <div class="bb-media-container">
-                    
-                    
-                                <figure class="bb-aspect-ratio bb-stretch " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img
-                                        alt=""
-                                        
-                                            data-aspectratio="1.49800796813"
-                                        
-                                        data-sizes="auto"
-                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QFc3NUUyLiRXS0ohKyVGMy5AJT5HXUAmQlkzQjZWT1gzQiogRyZIUk9QWkQgCg%3D%3D&w=768 1920w"
-                                        class="lazyload "
-                                        style="
-                                        
-                                        "
-                                        draggable="false"
-                                        itemprop="contentUrl"
-                                        style="">
-                                </figure>
-                            
-                </div>
-            
-
-        <div class="bb-overlay" ></div>
-    
-                </div>
-                <div class="aspect-ratio-inner">
-                    
-        <div class="expand-btn" style="color: ; fill: ;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px" style="transform: rotate(90deg);"><path d="M0 0h24v24H0z" fill="none"></path><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30px" style="margin: -3px 0px;"><path d="M0 0h24v24H0z" fill="none"></path><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path></svg>
-        </div>
-    
-                    <div>
-                    <div class="overflow-content bb-banner-padding content-v-center" >
-                        <div class="container">
-                            <div class="row justify-content-center">
-                                <div class="col-12 col-sm-12">
-                                    <div class="text-center">
-                                        
-
-            <h2 class=" bb-font-h2" 
-            >Make It Stand Out</h2>
-        
-
-            <div 
-            ><p>A collaborative platform for all your needs. Learn how to optimize your team's output to maximize your work.</p><p>Using strategies with proven results, we can help boost your business and branding. Begin your journey today</p><p>and bring your ideas to life!</p></div>
-        
-                <div class="btn-container" style="margin-top: 30px;--button-color: ">
-                    
-                    <a href="&#x23;" data-anchor="9F122460-ECA0-5EE9-3266-D22FA3737F87">
-                
-                    <button type="button" class="btn  btn-primary" >
-                        Get&#x20;Started
-                    </button>
-                
-                    </a>
-                
-                    <a href="&#x2f;contact">
-                
-                    <button type="button" class="btn  btn-secondary" >
-                        Contact&#x20;Us
-                    </button>
-                
-                    </a>
-                
-                </div>
-            
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    </div>
-                </div>
-                        
-
-                
-            
-            </div>
-                
-                            </section>
-                        
-
-                            <section id="bb-section-9F122460-ECA0-5EE9-3266-D22FA3737F87" class="bb-section bb-section-layout-2 bb-color-0 bb-has-btn" style="background-color: ; --background-color: ;">
-                                
-                <div class="container bb-section-padding">
-                    <div class="position-relative" style="padding: 60px 0;">
-                        <div 
-        class="bb-overlay-container"
-    >
-                            <div class="row h-100 justify-content-end">
-                                <div class="col-sm-9 col-md-8">
-                                    <div class="position-relative h-100"> 
-                <div class="bb-media-container">
-                    
-                    
-                                <figure class="bb-aspect-ratio bb-stretch " style="padding-bottom:100%; " itemscope itemtype="https://schema.org/ImageObject">
-                                    <img
-                                        alt=""
-                                        
-                                            data-aspectratio="1.49973219068"
-                                        
-                                        data-sizes="auto"
-                                        data-srcset="/remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=100 100w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=240 240w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=480 480w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=768 768w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=768 1280w, /remote/imageProxy.cfc?method=viewLibraryImage&s=QCY%2FUlBcLDVCXjomPV0%2FVkolUVdKKzIuKDwyPFVaT0EgNkREWDhOSj1ePTwgCg%3D%3D&w=768 1920w"
-                                        class="lazyload "
-                                        style="
-                                        
-                                        "
-                                        draggable="false"
-                                        itemprop="contentUrl"
-                                        style="">
-                                </figure>
-                            
-                </div>
-            </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-start">
-                            <div class="col-sm-9 col-md-8">
-                                <div class="bb-box text-center mx-4 mx-sm-0" style="padding: 50px 40px;">
-                                    
-
-            <h2 class=" bb-font-h2" 
-            >Welcome to Splashly</h2>
-        
-
-            <h5 class=" bb-font-h5" 
-            >LEARN MORE ABOUT WHAT WE DO</h5>
-        
-
-            <div 
-            ><p>Founded in 2020, Splashly was created to offer a simpler solution for small businesses to improve their online presence through collaborative teamwork, web optimizing strategies, and community support. This is a paragraph. You can write your own content here, and fill in the blanks. What's your story and where do you go from here? Tell the world about your business, and make this text yours. This is a paragraph.</p></div>
-        
-                <div class="btn-container" style="margin-top: 30px; --button-color: ;">
-                    
-                    <a href="&#x2f;services">
-                
-                    <button type="button" class="btn  btn-primary" >
-                        See&#x20;Our&#x20;Pricing
-                    </button>
-                
-                    </a>
-                
-                </div>
-            
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            
-                            </section>
-                        
-
-                            <section id="bb-section-9F122461-0ADE-0C60-EDB1-1A043BC10E56" class="bb-section bb-section-layout-1 bb-color-3 bb-has-btn" style="background-color: ; --background-color: ;">
+                            <section id="bb-section-9F1225A9-F8E5-2D31-AB28-4FC149297E73" class="bb-section bb-section-layout-3 bb-color-3 bb-has-btn" style="background-color: ; --background-color: ;">
                                 
                 <div class="bb-section-padding">
                     
                     <div class="container">
                         <div class="row">
-                            <div class="col-12 text-center mb-4">
+                            <div class="col-12  mb-4">
                                 
 
             <h3 class=" bb-font-h3" 
@@ -872,15 +705,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container">
-                        <div class="row" role="list">
+                    <div class="container" role="list">
                         
-                                <div class=" col-sm-6 col-md-4 text-center mb-4" role="listitem">
-                                    <div class="d-flex flex-column justify-content-between h-100">
-                                        <div>
+                                <div class="row py-3 align-items-center " role="listitem">
+                                    
+                                        <div class="col-sm-6" style="max-width: 500px;">
                                             
-                                                <div>
-                                                    
                 <div class="bb-media-container">
                     
                     
@@ -903,10 +733,11 @@
                             
                 </div>
             
-                                                </div>
+                                        </div>
+                                    
+                                    <div class="col-sm-6 py-4 py-sm-2" style="max-width: none; flex: 1 0 50%;">
+                                        <div class="">
                                             
-                                            <div class="pt-4">
-                                                
 
             <h5 class=" bb-font-h5" 
             >Basic Plan</h5>
@@ -919,15 +750,11 @@
             <div 
             ><p>Our Basic Plan is perfect for small business owners who are looking for an affordable option to get started on expanding their online presence without the commitment and pressure.</p></div>
         
-                                            </div>
-                                        </div>
-                                        <div class="pb-4">
-                                            
                 <div class="btn-container" > 
-                    <a href="&#x2f;services">
+                    <a href="contact">
                 
                     <button type="button" class="btn  btn-primary" >
-                        Learn&#x20;More
+                        Get&#x20;A&#x20;Quote
                     </button>
                 
                     </a>
@@ -936,13 +763,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            
-                                <div class=" col-sm-6 col-md-4 text-center mb-4" role="listitem">
-                                    <div class="d-flex flex-column justify-content-between h-100">
-                                        <div>
+                                
+                                <div class="row py-3 align-items-center " role="listitem">
+                                    
+                                        <div class="col-sm-6" style="max-width: 500px;">
                                             
-                                                <div>
-                                                    
                 <div class="bb-media-container">
                     
                     
@@ -965,10 +790,11 @@
                             
                 </div>
             
-                                                </div>
+                                        </div>
+                                    
+                                    <div class="col-sm-6 py-4 py-sm-2" style="max-width: none; flex: 1 0 50%;">
+                                        <div class="">
                                             
-                                            <div class="pt-4">
-                                                
 
             <h5 class=" bb-font-h5" 
             >Creative Plan</h5>
@@ -981,15 +807,11 @@
             <div 
             ><p>The Creative Plan is our most popular plan (and with good reason)! We help small to medium sized companies get an extra boost. Also includes all the amazing perks from the Basic Plan.</p></div>
         
-                                            </div>
-                                        </div>
-                                        <div class="pb-4">
-                                            
                 <div class="btn-container" > 
-                    <a href="&#x2f;services">
+                    <a href="contact">
                 
                     <button type="button" class="btn  btn-primary" >
-                        Learn&#x20;More
+                        Get&#x20;A&#x20;Quote
                     </button>
                 
                     </a>
@@ -998,13 +820,11 @@
                                         </div>
                                     </div>
                                 </div>
-                            
-                                <div class=" col-sm-6 col-md-4 text-center mb-4" role="listitem">
-                                    <div class="d-flex flex-column justify-content-between h-100">
-                                        <div>
+                                
+                                <div class="row py-3 align-items-center " role="listitem">
+                                    
+                                        <div class="col-sm-6" style="max-width: 500px;">
                                             
-                                                <div>
-                                                    
                 <div class="bb-media-container">
                     
                     
@@ -1027,10 +847,11 @@
                             
                 </div>
             
-                                                </div>
+                                        </div>
+                                    
+                                    <div class="col-sm-6 py-4 py-sm-2" style="max-width: none; flex: 1 0 50%;">
+                                        <div class="">
                                             
-                                            <div class="pt-4">
-                                                
 
             <h5 class=" bb-font-h5" 
             >Premium Plan</h5>
@@ -1043,15 +864,11 @@
             <div 
             ><p>Upgrade to the Premium Plan for unlimited storage, 24/7 support, and monthly consultations with our specialists. Also includes all the amazing perks from all previous Plans.</p></div>
         
-                                            </div>
-                                        </div>
-                                        <div class="pb-4">
-                                            
                 <div class="btn-container" > 
-                    <a href="&#x2f;services">
+                    <a href="contact">
                 
                     <button type="button" class="btn  btn-primary" >
-                        Learn&#x20;More
+                        Get&#x20;A&#x20;Quote
                     </button>
                 
                     </a>
@@ -1060,51 +877,64 @@
                                         </div>
                                     </div>
                                 </div>
-                            
-                        </div>
+                                
                     </div>
                 </div>
-        	
+            
                             </section>
                         
 
-                            <section id="bb-section-9F122462-BCDD-EE6A-8D60-4F3A04C739E1" class="bb-section bb-section-layout-1 bb-color-2" style="background-color: ; --background-color: ;">
+                            <section id="bb-section-9F1225AA-BB33-D78A-E357-305C013272AE" class="bb-section bb-section-layout-3 bb-color-2 bb-has-btn" style="background-color: ; --background-color: ;">
                                 
-                    <div class="bb-section-padding" >
-                        <div 
+                    <div>
+
+            
+                <div class="bb-text-padding">
+                    <div 
         class="bb-overlay-container"
     >
-                            
+                        
 
-        <div class="bb-overlay" ></div>
+        <div class="bb-overlay" style='opacity: 0; '></div>
     
-                        </div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-12 text-center">
-                                    <div>
-                                        <div class="pb-4" style="fill: ">
-                                            
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 135" width="75px"><text x="67" y="173" data-name="\u201C" font-family="Arial" font-size="200" font-weight="800" text-anchor="middle"><tspan x="67">&#8220;</tspan></text></svg>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <div class="">
+                                     
+
+            <h2 class=" bb-font-h2" 
+            >Have A Question&#x3f;</h2>
         
-                                        </div>
-                                        
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="">
+                                    
 
             <div 
-            ><p>This is a testimonial or quote. You can write your own content here, and fill in the blanks.</p><p>What's your story and where do you go from here? Tell the world about your business, and make this text yours.</p></div>
+            ><p>Contact us today for answers to all your questions. This is a paragraph. You can write your own content here, and fill in the blanks.</p></div>
         
-                                        <div class="pt-4">
-                                             
-
-            <div 
-            >&mdash; Rachel M.</div>
-        
-                                        </div>
-                                    </div>
+                <div class="btn-container" style="margin-top: 30px;--button-color: ">
+                    
+                    <a href="contact">
+                
+                    <button type="button" class="btn  btn-secondary" >
+                        Contact&#x20;Us
+                    </button>
+                
+                    </a>
+                
+                </div>
+            
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+            
+            </div>
                 
                             </section>
                         
@@ -1120,7 +950,7 @@
                             <div class="col-md-6">
                                 <div> 
 
-        <a href="/" class="mx-n2 d-flex align-items-center flex-wrap" style="text-decoration: none;">
+        <a href="index.html" class="mx-n2 d-flex align-items-center flex-wrap" style="text-decoration: none;">
             
             
                 <div class="px-2 bb-site-logo" style="max-width: 100%;">
@@ -1308,7 +1138,7 @@
 					});					
 					</script>
 
-                    <script src="/js/dist/published_site.bundle.js?20240711115146" ></script>
+                    <script src="js/dist/published_site.bundle.js?20240711115146" ></script>
                     
                     
                     <script src="https://www.googletagmanager.com/gtag/js?id=G-6D0WQE4DLB" ></script>
@@ -1343,18 +1173,18 @@
                             }())
                         </script>
                     
-                <link rel="stylesheet" href="/js/dist/site_free_plan.bundle.css?20240711115146" />
+                <link rel="stylesheet" href="js/dist/site_free_plan.bundle.css?20240711115146" />
                 <link rel="stylesheet" href="https://use.typekit.net/pza8bhe.css">
                 
                 <style>
-                .bb-bottom-banner {border-top: 3px solid #f37735; border-bottom: 3px solid #f37735;}
-                .bb-bottom-banner .text2 {color: #f37735; border: 1px solid #f37735; fill: #f37735;}
-                .bb-bottom-banner:hover .text2 {background-color: #f37735;}
-                .bb-side-banner .link1 {border-color: #f37735;}
+                .bb-bottom-banner {border-top: 3px solid #d11141; border-bottom: 3px solid #d11141;}
+                .bb-bottom-banner .text2 {color: #d11141; border: 1px solid #d11141; fill: #d11141;}
+                .bb-bottom-banner:hover .text2 {background-color: #d11141;}
+                .bb-side-banner .link1 {border-color: #d11141;}
                 </style>
 
                 
-                    <div id="ws-side-banner-031828" class="bb-side-banner">
+                    <div id="ws-side-banner-053320" class="bb-side-banner">
                         <a class="link1 skip-tracking" href="https://www.website.com/" target="_blank" rel="noopener noreferrer"  title="Create your website for free, powered by website.com">
                             <span class="text text1">
                                 <p>Create Yours</p>
@@ -1366,7 +1196,7 @@
                         <a class="link2 skip-tracking" href="https://www.website.com/website-builder-templates/" target="_blank"  rel="noopener noreferrer" >Stunning Website Templates. Free Domain.</a>
                     </div>
                 
-                <a id="ws-bottom-banner-031828" class="bb-bottom-banner skip-tracking" href="https://www.website.com/website-builder/" target="_blank"  rel="noopener noreferrer"   title="Create your website for free, powered by website.com">
+                <a id="ws-bottom-banner-053320" class="bb-bottom-banner skip-tracking" href="https://www.website.com/website-builder/" target="_blank"  rel="noopener noreferrer"   title="Create your website for free, powered by website.com">
                     <span class="text text1">Create a free website with
                         <span class="domain">website<span class="dot">.</span>com</span>
                         website builder.
